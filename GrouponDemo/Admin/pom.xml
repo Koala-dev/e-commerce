@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<project>
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.tortuousroad</groupId>
+    <artifactId>groupon_demo</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+    <name>${project.artifactId}</name>
+    <url>http://www.tortuousroad.com</url>
+    <inceptionYear>2017</inceptionYear>
+
+    <modules>
+        <module>Service</module>
+        <module>Admin</module>
+    </modules>
+
+</project>
